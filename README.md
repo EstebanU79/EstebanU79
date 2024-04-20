@@ -1,5 +1,3 @@
-# Fun and Exciting Profile! 🚀
-
 Hi there! 👋 I'm Esteban, an experienced computer engineer with **18 years of Java application development** under my belt. I've teamed up with major financial institutions, crafting technological solutions that supercharge processes and boost efficiency.
 
 ## My Superpowers 🛸
